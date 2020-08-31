@@ -16,4 +16,4 @@
         print(encoded_s)
   
         decoded_s = b64decode(encoded_s)
-        prnit(decoded_s)
+        print(decoded_s)
