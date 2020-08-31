@@ -3,6 +3,7 @@
 
 # Usage:
 
+
   s = '兔耳草'
   encoded_s = b64encode(s)
   print(encoded_s)
